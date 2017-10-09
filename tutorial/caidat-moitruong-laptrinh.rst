@@ -41,3 +41,7 @@ Cách xem nội dung tài liệu viết bằng ngôn ngữ reStructuredText
 ===============================================================
 
 * Sử dụng tổ hợp phím ``Ctrl + Shift + E`` để xem trước nội dung của tài liệu.
+
+* Ví dụ demo:
+
+  .. image:: images-demo/reStructuredText-demo.png
