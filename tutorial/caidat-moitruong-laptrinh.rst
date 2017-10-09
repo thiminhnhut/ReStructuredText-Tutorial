@@ -1,4 +1,3 @@
-
 ##########################################################################################################
 Cài đặt môi trường lập trình cho ngôn ngữ reStructuredText với Atom Editor trên hệ điều hành Ubuntu 16.04
 ##########################################################################################################
@@ -42,7 +41,3 @@ Cách xem nội dung tài liệu viết bằng ngôn ngữ reStructuredText
 ===============================================================
 
 * Sử dụng tổ hợp phím ``Ctrl + Shift + E`` để xem trước nội dung của tài liệu.
-
-* Ví dụ demo:
-
-  .. image:: images-demo/reStructuredText-demo.png
