@@ -20,7 +20,7 @@ Cài đặt môi trường lập trình cho ngôn ngữ reStructuredText với A
 
 * Cài đặt `Atom Editor <https://atom.io/>`_.
 
-  - Chọn phiên bản thích hợp với hệ điều hành, ví dụ file ```atom-amd64.deb``.
+  - Chọn phiên bản thích hợp với hệ điều hành, ví dụ file ``atom-amd64.deb``.
 
   - Cài đặt ``Atom``:
 
@@ -33,14 +33,9 @@ Cài đặt môi trường lập trình cho ngôn ngữ reStructuredText với A
 
   - ``Atom packages``: `rst-preview-pandoc <https://atom.io/packages/rst-preview-pandoc>`_ và `language-restructuredtext <https://atom.io/packages/language-restructuredtext>`_.
 
-    + `rst-preview-pandoc (reStructuredText Preview package) <https://atom.io/packages/rst-preview-pandoc>`_:
-    Open a pandoc-rendered version of the Markdown in the current editor with ``ctrl-shift-e``.
-    This is a fork of markdown-preview-pandoc package.
-    This package can read reStructuredText for Sphinx, too.
-    This package needs ``pandoc`` library and ``language-reStructuredText`` package.
+    + `rst-preview-pandoc (reStructuredText Preview package) <https://atom.io/packages/rst-preview-pandoc>`_: Open a pandoc-rendered version of the Markdown in the current editor with ``ctrl-shift-e``. This is a fork of markdown-preview-pandoc package. This package can read reStructuredText for Sphinx, too. This package needs ``pandoc`` library and ``language-reStructuredText`` package.
 
-    + `language-restructuredtext (reStructuredText language support in Atom) <https://atom.io/packages/language-restructuredtext>`_:
-    Add snippets and syntax highlighting for reStructuredText files.
+    + `language-restructuredtext (reStructuredText language support in Atom) <https://atom.io/packages/language-restructuredtext>`_: Add snippets and syntax highlighting for reStructuredText files.
 
   - ``Ubuntu packages``:  `pandoc <https://pandoc.org/>`_.
 
