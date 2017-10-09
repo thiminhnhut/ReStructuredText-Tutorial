@@ -22,12 +22,9 @@ Cài đặt môi trường lập trình cho ngôn ngữ reStructuredText với A
 
   - Chọn phiên bản thích hợp với hệ điều hành, ví dụ file ``atom-amd64.deb``.
 
-  - Cài đặt ``Atom``:
+  - Cài đặt ``Atom``::
 
-    .. code-block:: bash
-        :linenos:
-
-        $ sudo dpkg -i atom-amd64.deb
+      $ sudo dpkg -i atom-amd64.deb
 
 * Cài đặt các packages sau (trên ``Atom`` và trên hệ điều hành ``Ubuntu``):
 
@@ -37,12 +34,9 @@ Cài đặt môi trường lập trình cho ngôn ngữ reStructuredText với A
 
     + `language-restructuredtext (reStructuredText language support in Atom) <https://atom.io/packages/language-restructuredtext>`_: Add snippets and syntax highlighting for reStructuredText files.
 
-  - ``Ubuntu packages``:  `pandoc <https://pandoc.org/>`_.
+  - ``Ubuntu packages`` với thư viện `pandoc <https://pandoc.org/>`_::
 
-    .. code-block:: bash
-        :linenos:
-
-       $ sudo apt-get install -y pandoc
+    $ sudo apt-get install -y pandoc
 
 Cách xem nội dung tài liệu viết bằng ngôn ngữ reStructuredText
 ===============================================================
